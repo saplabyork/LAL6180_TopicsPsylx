@@ -1,0 +1,55 @@
+---
+title: "LAL 6180"
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+---
+
+```{=html}
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+```
+
+```{=html}
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+```
+
+::::: {.row style="padding-top: 30px;"}
+::: col-sm-6
+# **Topics in Psycholinguistics**
+### Fall 2026
+
+\
+Wednesdays, 11:30am\
+Ross Building, Rm. N812\
+Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
+Contact: [chandann\@yorku.ca](mailto:chandann@yorku.ca)\
+[Outline](Outline.html)
+
+### About
+
+This course presents classic and current research across the various fields of **Psycholinguistics**, including speech perception and production, word recognition, syntactic processing, discourse and inference, multilingualism, and language acquisition. Students will engage with primary research literature addressing a variety of topics in the psychology of language. Special attention is given to the variety of behavioural and neurophysiological methods framing the research as well as models of language processing. 
+
+### How to use this site
+
+This site will have links to all of the required readings and on occasion some lecture notes.
+:::
+
+::: col-sm-6
+![](images/chain_shift.jpg) </a>
+:::
+:::::

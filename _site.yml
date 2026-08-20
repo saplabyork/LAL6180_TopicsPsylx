@@ -1,0 +1,11 @@
+name: "LAL6180"
+navbar:
+  title: "LAL6180"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Outline"
+      href: Outline.html
+    - text: "Collab project"
+      href: Proto-Greek.html
+output_dir: "docs"

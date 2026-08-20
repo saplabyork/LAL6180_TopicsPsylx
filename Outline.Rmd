@@ -1,0 +1,99 @@
+---
+title: "LAL6180-Outline/Schedule"
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(repos = c(CRAN = "https://cloud.r-project.org/"))
+install.packages("devtools")
+devtools::install_github("haozhu233/kableExtra")
+install.packages("kableExtra")
+library(kableExtra)
+library(dplyr)
+```
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+# **LAL 6180: Topics in Psycholinguistics**\
+# *Sound Change*\
+Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
+Course time: Wednesdays 11:30-2:30pm, Ross N812\
+
+## Outline
+
+***
+
+## Seminar description:
+This course presents classic and current research across the various fields of **Psycholinguistics**, including speech perception and production, word recognition, syntactic processing, discourse and inference, multilingualism, and language acquisition. Students will engage with primary research literature addressing a variety of topics in the psychology of language. Special attention is given to the variety of behavioural and neurophysiological methods framing the research as well as models of language processing.  
+
+Students will be required to present readings and lead discussion. Throughout the course we will be working on a [collaborative psycholinguistics project](phoneme-allophone.html)
+
+## Seminar prerequisites:
+This course is open to graduate students in LING, AL, and PSYC. To that extent, the readings and discussion (and ultimately the work you produce) will reflect your background in Linguistics, and psycholinguistics in particular. I request that you contact me immediately if you do not have much background, in which case we'll have some work to do outside of class. 
+
+## Learning outcomes:
+
+1. Demonstrate knowledge of models of speech and syntactic processing (writ large)
+2. Demonstrate the ability to sketch out a theoretically motivated approach to a question in psycholinguistics
+3. Demonstrate ability to work within a team on a psycholinguistics project
+
+## Evaluation
+
+Your grade in the course will be determined by your performance on the following:
+
+* 50% in class participation (including presenting readings)
+  - Prepare outline handouts for readings with discussion questions
+* 25% contribution to collaborative class project
+* 25% Final paper
+
+## Course text and readings
+The readings will be provided in pdf form under the [Readings](Readings.html) tab. In some cases we may have to read texts where there isn't an electronic copy available. Library links will be provided in those cases.
+
+## Class structure
+We will go over the week's papers. A student assigned to that particular week will present a detailed summary of the articles (in a handout) along with a few discussion questions for us. We'll also spend some time outlining strategies for our [collaborative class project](Proto-Greek.html). On some occasions we'll take field trips to the Phonetics Studio and the SAP Lab.
+
+## Email policy
+Email me, but sometimes it may take a day for me to get back to you.
+
+## Grading
+York University uses a grading system detailed [here](http://calendars.registrar.yorku.ca/2012-2013/academic/grades/). Please familiarize yourself with it.
+
+## Academic Honesty and Integrity
+York students are required to maintain high standards of academic integrity and are subject to the Senate Policy on Academic Honesty. Please review the documents available [here](https://www.yorku.ca/secretariat/policies/policies/academic-honesty-senate-policy-on/). Academic offences are treated very seriously, and the disciplinary procedures are described there as well. Please consult the code if you have any question about the nature of academic offences and their penalties.
+
+## Schedule
+
+| **Week** | **Topic** | **Readings** | _Notes_ |
+|:---:|:---:|:---:|---|
+| 1 | Introduction, assignments, etc. | NONE |  |
+| 2 | _Lapis lingue, lapis auris_, and beyond | [de Courtenay (1910)](pdfs/decourtenay1972.pdf),<br>[Sievers (1901)](pdfs/sievers1901.pdf) | [Chandan's notes](pdfs/Week1_readings.pdf); Discuss [Sihler (1995)](pdfs/sihler1995selection.pdf) |
+| 3 | Modern approaches | [Ohala (1981)](pdfs/ohala1981.pdf),<br>[Lindblom (1990)](pdfs/lindblom1990.pdf),<br> [Taylor's notes](pdfs/LING 6120 Handout_Potter.pdf)| Recording booth,<br>PRAAT|
+| 4 | Modern approaches II | [Blevins (2006)](pdfs/blevins2006b-SynopsisEvolutionaryPhonology.pdf),<br>[Garrett & Johnson (2013)](pdfs/garrett2013.pdf) | Experimental design |
+| 5 | Sound patterns | [Narayan (2008)](pdfs/narayan2008.pdf),<br>[Liljencrants & Lindblom (1972)](pdfs/liljencrants1972.pdf),<br>[Lang & Ohala (1996)](pdfs/ohala1996.pdf) (for fun) <br> [Daniella's notes](pdfs/Week 5 - Narayan (2007) & Liljencrants & Lindblom (1972).pdf) |  |
+| 6 | Palatalization | [Guion (1998)](pdfs/guion1998.pdf),<br>[Chang et al. (2001)](pdfs/chang2001.pdf) |  |
+| 7 | Nasalization | [Beddor (2009)](pdfs/beddor2009.pdf) <br> [Laura's notes](pdfs/Laura's notes on Beddor.pdf) |  |
+| 8 | Tonogenesis | [Hombert, Ohala, Ewan (1979)](pdfs/hombert1979.pdf),<br>[Coetzee et al. (2018)](pdfs/coetzee2018.pdf) |  |
+| 9 | Metathesis | [Blevins & Garrett (1998)](pdfs/blevins1998.pdf) | Discuss experiment, tasks |
+| 10 | Socio and sound change | [Labov (1963)](pdfs/labov1963.pdf) **classic**,<br>[Harrington et al. (2018)](pdfs/harrington2018.pdf) |  |
+| 11 | Lexicon and sound change | [Bybee (2000)](pdfs/bybee2000.pdf),<br>[Blevins & Wedel (2009)](pdfs/blevins2009.pdf) |  |
+| 12 |  |  |  |
